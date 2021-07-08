@@ -32,7 +32,7 @@ twitter_username: roll_the_fiber
 github_username:  labrack
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
