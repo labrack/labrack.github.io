@@ -21,11 +21,7 @@
 title: TomDuff.net
 email: tom.duff@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal website of me, Tom Duff, a guy that likes networking,
-  Linux, automating things, and dabbles in occasional small electronics
-  nonsense. All of the views expressed on this website are entirely my
-  own, and do not reflect upon the views of any organization(s) for which
-  I may work, or otherwise volunteer my time.
+  This site is under construction. Please check back later.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomduff.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: roll_the_fiber
